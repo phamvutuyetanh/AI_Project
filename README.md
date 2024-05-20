@@ -29,7 +29,7 @@
 <a name="Dataset"></a>
 ### 2. Dataset
 Link of dataset: ` https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction `
-This dataset contains 12 information about 980 patiens. These information is divided into two types: input data and output target. Input data are: 
+This dataset contains 12 information about 980 patients. These information is divided into two types: input data and output target. Input data are: 
 <ul>
 <li>	Age: age of patient [year]	</li>
 <li>	Sex: sex of the patient [M: Male, F: Female]</li>
@@ -43,11 +43,11 @@ This dataset contains 12 information about 980 patiens. These information is div
 <li>	Oldpeak: oldpeak = ST [Numeric value measured in depression]</li>
 <li>	ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping] </li>
 </ul>
-Based on these features, the model will classify the patient has heart disease or normal.
+Based on these features, the model will classify the patient has heart failure or not.
 
 <a name="goal"></a>
 ### 3. Goal
-The project will create the best model to classify whether patient has heart disease or normal. 
+The project will create the best model to classify whether patient has heart failure or not. 
 
 <a name="install"></a>
 ### 4. How to run code
@@ -55,7 +55,7 @@ You can open the terminal on your IDE and clone the repo:
 
 ` https://github.com/phamvutuyetanh/AI_Project.git `
 
-Another way, you can download file AI_Project.ipynb and heart.csv. Then, running these file in your IDE
+Another way, you can download file AI_Project.ipynb and heart.csv. Then, run these file in your IDE.
 
 <a name="Techniques"></a>
 ## II. Techniques
@@ -69,7 +69,7 @@ Another way, you can download file AI_Project.ipynb and heart.csv. Then, running
 There are five steps in our project: 
 
 <ol>
-    <li> Import data and summary statistic </li>
+    <li> Importing data and summarizing statistic </li>
     <li> Preprocessing </li>
     <li> Training and testing model</li>
     <li> Evaluating model </li>
