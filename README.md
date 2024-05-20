@@ -28,6 +28,7 @@
 
 <a name="Dataset"></a>
 ### 2. Dataset
+Link of dataset: ` https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction `
 This dataset contains 12 information about 980 patiens. These information is divided into two types: input data and output target. Input data are: 
 <ul>
 <li>	Age: age of patient [year]	</li>
