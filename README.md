@@ -60,7 +60,7 @@ Another way, you can download file AI_Project.ipynb and heart.csv. Then, running
 <a name="Techniques"></a>
 ## II. Techniques
 <ul>
-<li>	IDE: VS Code/ GG Colab</li>
+<li>	IDE: VS Code/ Google Colab</li>
 <li>    Libraries: numpy, pandas, matplotlib, sklearn</li>
 </ul>
 
